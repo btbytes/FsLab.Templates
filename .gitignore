@@ -1,0 +1,7 @@
+packages
+output
+bin
+obj
+*.suo
+.DS_Store
+.paket/paket.exe
